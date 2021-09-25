@@ -1,6 +1,4 @@
-Olá, meu nome é Nataly Nogueira!
-
-##
+## Olá, meu nome é Nataly Nogueira!
 
 <div align="center">
   <a href="https://github.com/NatyCN">
