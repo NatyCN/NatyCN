@@ -1,4 +1,4 @@
-## Olá, meu nome é Nataly Nogueira!
+## Olá, meu nome é Nataly Coelho Nogueira!
 
 - 📚| Aprendendo kotlin...
 -  🌱 Vivendo e aprendendo! 🧠
