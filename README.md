@@ -1,7 +1,7 @@
 ## Olá, meu nome é Nataly Coelho Nogueira!
 
 - 📚| Aprendendo kotlin...
--  🌱 Vivendo e aprendendo! 🧠
+-  🌱 Vivendo e aprendendo!
 ## Linguagens e IDE's
           
 <div style="display: inline_block"><br>
