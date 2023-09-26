@@ -13,5 +13,5 @@
     
 ## Contato
 
-[Instagram](https://www.instagram.com/natalycoelhonogueira/) - 
-[G-mail](mailto:coelho.nogueira10@gmail.com)
+- [Instagram](https://www.instagram.com/natalycoelhonogueira/)
+- [G-mail](mailto:coelho.nogueira10@gmail.com)
