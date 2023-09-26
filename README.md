@@ -5,11 +5,11 @@
 
 ## Meus conhecimentos
 
-- Banco de Dados: Firebase RealTime Database
+- 🎲| Banco de Dados: Firebase RealTime Database
 
 ## Linguagens e IDE's
           
-- Android Studio
+- 💻| Android Studio
     
 ## Contato
 
