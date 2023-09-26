@@ -1,13 +1,15 @@
 ## Olá, meu nome é Nataly Coelho Nogueira!
 
-- 📚| Aprendendo kotlin...
--  🌱 Vivendo e aprendendo!
+- 📚| Aprendendo kotlin, SQLite e Room...
+- 🌱| Vivendo e aprendendo!
+
+## Meus conhecimentos
+
+- Banco de Dados: Firebase RealTime Database
+
 ## Linguagens e IDE's
           
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg">
-</div>
+- Android Studio
     
 ## Contato
     
