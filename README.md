@@ -18,4 +18,4 @@
 
 ## Detalhes sobre mim
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatyCN)](https://github.com/NatyCN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatyCN)](https://github.com/NatyCN)
